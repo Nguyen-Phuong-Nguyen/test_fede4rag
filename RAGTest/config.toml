@@ -2,12 +2,12 @@
 api_key = 
 api_base = "https://api.gpt.ge/v1/"
 api_name = "deepseek-r1:7b"
-auth_token = 
+auth_token = "HF_TOKEN"
 
 
 [settings]
-llm = "deepseek-r1:7b"
-embeddings = {embedding path}
+llm = "llama"
+embeddings = "EMBEDDING_PATH"
 split_type = "sentence"
 chunk_size = 2048
 dataset = "json_download"
