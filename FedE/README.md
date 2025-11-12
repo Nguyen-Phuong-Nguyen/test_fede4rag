@@ -30,5 +30,3 @@ pip install "numpy<2"
 # chạy upstream
 bash /root/FedE4RAG/FedE/run.sh
 
-# nếu repo private cần credential thì có thể sử dụng token này
-git token de dang nhap -> bypass github credential de clone ve xai: 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
